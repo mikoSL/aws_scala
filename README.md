@@ -1,4 +1,4 @@
-# aws_scala (lambda demo)
+# aws_scala (lambda function in Scala to extract object keys from s3 bucket)
 
 ## Modification in build.sbt comparing with its source:
 https://aws.amazon.com/blogs/compute/writing-aws-lambda-functions-in-scala/
