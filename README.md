@@ -27,5 +27,6 @@ sbt assembly
 ```
 sbt compile
 ```
+## Applying
 * upload aws_scala_assembly-1.0.jar (directory: ./yourproject/target/scala-2.12/)
 * test then run lambda function, check log from cloudwatch.
